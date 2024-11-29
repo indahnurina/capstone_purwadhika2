@@ -1,10 +1,11 @@
-# A. Latar Belakang & Tujuan Analisis
+#Data Analysis: Airbnb Listing in Bangkok
+## A. Latar Belakang & Tujuan Analisis
 
 Analisis bisnis ini disusun untuk memberikan rekomendasi kepada Chief Business Officer (CBO) air bnb mengenai langkah-langkah bisnis yang perlu dilakukan oleh perusahaan untuk menjaga sustainability dan pertumbuhan bisnis ke depan. Salah satu tolak ukur yang mencerminkan pertumbuhan bisnis perusahaan adalah peningkatan revenue. Analisis ini akan berfokus pada bagaimana perusahaan dapat meingkatkan revenue ke depannya.
 
 Sebagai pemilik platform dan juga pihak perantara, airbnb memiliki akses penuh terhadap seluruh database transaksi sewa-menyewa yang dilakukan melalui platform airbnb. Dengan memanfaatkan database tersebut, airbnb dapat memperoleh analisis komprehensif untuk menentukan langkah-langkah bisnis sebagai upaya untuk meningkatkan revenue ke depan.
 
-# B. Airbnb Business Model
+## B. Airbnb Business Model
 
 ![image](https://github.com/user-attachments/assets/2ad769ae-545b-4888-83cc-28d63e9ce47b)
 
@@ -16,7 +17,7 @@ Pada proses transaksi sewa-menyewa, Airbnb memperoleh penghasilan dari 2 sumber,
 
 Berdasarkan informasi di lapangan, banyak host airbnb yang bukan pemilik tempat tinggal dan bertindak hanya sebagai agen untuk si pemilik rumah. Dengan demikian, melalui analisis data terkini, airbnb dapat memberikan informasi kepada host mengenai tempat tinggal seperti apa yang paling diminati pelanggan. Dengan demikian, host (yang sebagian bertindak sebagai agen)  memiliki acuan dalam mencari bisnis baru.
 
-# C. Business Problems and Workflow
+## C. Business Problems and Workflow
 Berdasarkan business model dari airbnb, peningkatan revenue dapat diperoleh dengan cara meningkatkan volume transaksi sewa-menyewa. Lalu, bagaimana cara untuk dapat meningkatkan volume transaksi?
 
 Peningkatan volume transaksi dapat terjadi apabila supply dan demand memiliki keselarasan. Oleh karena itu, analisis akan difokuskan pada analisis supply vs demand. Berikut adalah proses analisis yang akan dilakukan:
@@ -36,7 +37,7 @@ Peningkatan volume transaksi dapat terjadi apabila supply dan demand memiliki ke
     - Range Harga
 1. Analisis akan dilakukan dengan membandingkan supply dan demand untuk masing-masing aspek pada poin 2. Setelah itu, apabila terdapat gap di antara keduanya, maka akan ditinjau lebih lanjut apakah gap tersebut dapat menimbulkan konsekuensi / peluang bisnis yang dapat berdampak pada sustainability dan pertumbuhan revenue ke depannya.
 
-# D. Data
+## D. Data
 **Data Source**
 
 https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
