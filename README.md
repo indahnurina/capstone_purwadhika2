@@ -1,4 +1,4 @@
-#Data Analysis: Airbnb Listing in Bangkok
+# Data Analysis: Airbnb Listing in Bangkok
 ## A. Latar Belakang & Tujuan Analisis
 
 Analisis bisnis ini disusun untuk memberikan rekomendasi kepada Chief Business Officer (CBO) air bnb mengenai langkah-langkah bisnis yang perlu dilakukan oleh perusahaan untuk menjaga sustainability dan pertumbuhan bisnis ke depan. Salah satu tolak ukur yang mencerminkan pertumbuhan bisnis perusahaan adalah peningkatan revenue. Analisis ini akan berfokus pada bagaimana perusahaan dapat meingkatkan revenue ke depannya.
