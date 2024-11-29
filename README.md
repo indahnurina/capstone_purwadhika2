@@ -82,7 +82,7 @@ https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
     - Entire home/apt: Beautiful One Bedroom Apartment Near Skytrain yang dikelola oleh Suchada dan terletak di Phaya Thai
     - Private room: FREE PICK UP⭐BKK AIRPORT/BREAKFAST/PRIVATE DELUXE yang dikelola oleh Pailin dan terletak di Lat Krabang
 4. Terdapat 2 listing dengan tipe private room di Bang Phlat yang jauh di atas harga pasar, yaitu id 22633450 dan id 629653142142561774 yang keduanya milik host Jeab dengan host_id 117057915.
-5. Semakin tinggi harga, maka tingkat penetrasi pasar (peluang listing memperoleh penyewa) semakin rendah. Jika ingin mengejar volume transaksi, maka sebaiknya memperbanyak listing dengan Demand-Based Price Category Normal hingga High. Walaupun secara penetrasi pasar harga mempengaruhi, namun dari sisi jumlah review tidak terlalu mempengaruhi (korelasi mendekati nol). Hal ini mengindikasikan bahwa penyewa cenderung mencoba tempat tinggal yang memiliki harga normal hingga high, namun tidak menentukan keputusannya untuk menginap di tempat yang sama.
+5. Semakin tinggi harga, maka tingkat penetrasi pasar (peluang listing memperoleh penyewa) semakin rendah. Jika ingin mengejar volume transaksi, maka sebaiknya memperbanyak listing dengan Demand-Based Price Category Normal hingga High. Walaupun secara penetrasi pasar harga mempengaruhi, namun dari sisi jumlah review tidak terlalu mempengaruhi (korelasi lemah). Hal ini mengindikasikan bahwa penyewa cenderung mencoba tempat tinggal yang memiliki harga normal hingga high, namun tidak menentukan keputusannya untuk menginap di tempat yang sama.
 6. List Peluang Bisnis
 
 |Peluang Bisnis Berkembang|
