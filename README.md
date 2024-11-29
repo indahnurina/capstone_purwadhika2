@@ -82,13 +82,12 @@ https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
 # G. Summary and Business Recommendation
 
 1. Walaupun listing tersebar di 50 disctrict, ketersediaan suatu room type terkonsentrasi di neighbourhood tertentu. 
-2. Terdapat perbedaan demand antar room type, dimana shared room paling tidak diminati. Apabila memungkinkan, host dapat mengubah shared room menjadi private room. Selain itu, demand juga terkonsentrasi di neighbourhood tertentu saja untuk setiap room type.
-3. Terdapat 2 listing yang paling diminati, yaitu:
+2. Terdapat 2 listing yang paling diminati, yaitu:
     - Entire home/apt: Beautiful One Bedroom Apartment Near Skytrain yang dikelola oleh Suchada dan terletak di Phaya Thai
     - Private room: FREE PICK UP⭐BKK AIRPORT/BREAKFAST/PRIVATE DELUXE yang dikelola oleh Pailin dan terletak di Lat Krabang
-4. Terdapat 2 listing dengan tipe private room di Bang Phlat yang jauh di atas harga pasar, yaitu id 22633450 dan id 629653142142561774 yang keduanya milik host Jeab dengan host_id 117057915.
-5. Semakin tinggi harga, maka tingkat penetrasi pasar (peluang listing memperoleh penyewa) semakin rendah. Jika ingin mengejar volume transaksi, maka sebaiknya memperbanyak listing dengan Demand-Based Price Category Normal hingga High. Walaupun secara penetrasi pasar harga mempengaruhi, namun dari sisi jumlah review tidak terlalu mempengaruhi (korelasi lemah). Hal ini mengindikasikan bahwa penyewa cenderung mencoba tempat tinggal yang memiliki harga normal hingga high, namun tidak menentukan keputusannya untuk menginap di tempat yang sama.
-6. List Peluang Bisnis
+3. Terdapat 2 listing dengan tipe private room di Bang Phlat yang jauh di atas harga pasar, yaitu id 22633450 dan id 629653142142561774 yang keduanya milik host Jeab dengan host_id 117057915.
+4. Semakin tinggi harga, maka tingkat penetrasi pasar (peluang listing memperoleh penyewa) semakin rendah. Jika ingin mengejar volume transaksi, maka sebaiknya memperbanyak listing dengan Demand-Based Price Category Normal hingga High. Walaupun secara penetrasi pasar harga mempengaruhi, namun dari sisi jumlah review tidak terlalu mempengaruhi (korelasi lemah). Hal ini mengindikasikan bahwa penyewa cenderung mencoba tempat tinggal yang memiliki harga normal hingga high, namun tidak menentukan keputusannya untuk menginap di tempat yang sama.
+5. List Peluang Bisnis
 
 |Peluang Bisnis Berkembang|
 |---|
@@ -96,7 +95,7 @@ https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
 |Entire home/apt di Khlong Tei, Vadhana dan Ratchathewi|
 |Private room di Phra Nakhon|
 
-7. List Bisnis yang Sustain
+6. List Bisnis yang Sustain
 
 |Bisnis yang Sustain|
 |---|
@@ -104,7 +103,7 @@ https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
 |Hotel room di Phra Nakhon|
 |Private room di Huai Khwang|
 
-8. Shared room yang belum memperoleh penyewa di neighbourhood berikut dapat disarankan untuk mengubah menjadi private room:
+7. Shared room yang belum memperoleh penyewa di neighbourhood berikut dapat disarankan untuk mengubah menjadi private room:
 - Bang Khen
 - Bang Khun thain
 - Bang Sue
